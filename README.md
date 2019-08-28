@@ -2,8 +2,6 @@
 
 # Ambitus react native seed project
 
-## seed-react-native
-
 ### Utilizado o YARN para instalações:
 ### yarn install
 
