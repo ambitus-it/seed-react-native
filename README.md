@@ -5,6 +5,6 @@
 ## seed-react-native
 
 ### Utilizado o YARN para instalações:
-### yarn intall
+### yarn install
 
 ### Criado com EXPO, configurado eslint do "Airbnb".
