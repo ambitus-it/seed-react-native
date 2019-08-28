@@ -2,9 +2,9 @@
 
 # Ambitus react native seed project
 
-# seed-react-native
+## seed-react-native
 
-## Utilizado o YARN para instalações:
-## yarn intall
+### Utilizado o YARN para instalações:
+### yarn intall
 
-## Criado com EXPO, configurado eslint do "Airbnb".
+### Criado com EXPO, configurado eslint do "Airbnb".
